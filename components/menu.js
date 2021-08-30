@@ -9,8 +9,6 @@ return(
             <li><Link href="https://vercel.com">Vercel</Link></li>
             <li><Link href="/receitas">receitas</Link></li>
             <li><Link href="">sobre</Link></li>
-            
-
         </ul>
     </>
 )
