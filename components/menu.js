@@ -1,8 +1,3 @@
-
-
-export default MENU
-
-
 import Link from 'next/link'
 
 function MENU(){
